@@ -13,8 +13,8 @@
 # 🧠 About Me
 
 ```yaml
-name: Felipe
-nickname: Devequi
+name: Felipe Devequi
+nickname: Deveqyz7
 age: 17
 
 focus:
