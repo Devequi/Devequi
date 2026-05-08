@@ -1,6 +1,6 @@
 <div align="center">
 
-# Devequyz
+# Deveqyz7
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Developer+in+progress...;Building+cool+stuff+with+code;Java+%7C+Python+%7C+Web+Dev;Future+Software+Engineer" />
 
