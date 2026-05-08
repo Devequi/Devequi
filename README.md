@@ -13,7 +13,7 @@
 # 💫 About Me
 
 ```yaml
-name: Antonio
+name: Devequi
 role: Student Developer
 focus: Web Development
 current_project: WebKore
@@ -64,11 +64,7 @@ learning:
 
 <div align="center">
 
-## 🏆 WebKore
-
-📊 Sports performance tracking platform  
-⚡ Dashboards, metrics and athlete evolution  
-🏋️ Built for Esporte Clube da ETEC de Araras
+TCC WebKore
 
 </div>
 
