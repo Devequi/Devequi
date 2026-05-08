@@ -97,7 +97,7 @@ dream:
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=felipeone10&cover_image=true&theme=novatorem)](https://open.spotify.com/user/felipeone10)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Listening+to+music...;Coding+late+at+night...;Building+cool+projects..." />
 
 </div>
 
