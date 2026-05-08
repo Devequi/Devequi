@@ -1,46 +1,51 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Antonio+%F0%9F%91%8B;Web+Developer;React+%7C+Node.js;Creating+WebKore+%F0%9F%9A%80" />
+# Devequyz
 
-<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=7A00FF&center=true&vCenter=true&width=700&lines=Developer+in+progress...;Building+cool+stuff+with+code;Java+%7C+Python+%7C+Web+Dev;Future+Software+Engineer" />
 
-<img src="https://i.pinimg.com/originals/6d/0d/51/6d0d51b7e9f2d8f7d2f0c61c0a1e4a2d.gif" width="700"/>
+<img src="https://i.pinimg.com/originals/6c/5d/7d/6c5d7d8b2d8c9d0e8dbe65e7a7f6f1d.gif" width="100%">
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🧠 About Me
 
 ```yaml
-name: Devequi
-role: Student Developer
-focus: Web Development
-current_project: WebKore
-learning:
+name: Felipe
+nickname: Devequi
+age: 16
+
+focus:
   - React
-  - Node.js
-  - Express
-  - APIs REST
+  - Web Development
+  - Frontend
+
+currently_learning:
+  - React
+  - Django
+  - SQLite
+  - UI Design
+
+dream:
+  - Become a Software Engineer
+  - Build impactful apps
+  - Achieve financial independence
 ```
 
-<br>
+---
+
+# ⚒️ Tech Stack
 
 <div align="center">
 
-> "Transforming ideas into code."
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode,sqlite,django" />
 
 </div>
 
 ---
 
-# 🧠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mysql,git,vscode" />
-
-</div>
 
 ---
 
@@ -48,38 +53,80 @@ learning:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=devequi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devequi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSERNAME&theme=tokyonight&hide_border=true&background=00000000"/>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=devequi&theme=tokyonight&hide_border=true&background=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Project
+# 🏆 Achievements
 
 <div align="center">
 
-TCC WebKore
+<img src="https://github-profile-trophy.vercel.app/?username=SEUUSERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-# 🌌 Connect
+# 🌌 Dev Quote
 
 <div align="center">
 
-<a href="https://github.com/devequi">
-<img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+> "Code is temporary. Impact is permanent."
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devequi&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+---
+
+# 🎧 Vibing To
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=felipeone10&cover_image=true&theme=novatorem)](https://open.spotify.com/user/felipeone10)
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://instagram.com/SEUUSER">
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram">
 </a>
 
-<a href="mailto:SEUEMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://discord.com">
+<img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord">
+</a>
+
+<a href="mailto:seuemail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail">
 </a>
 
 </div>
@@ -88,6 +135,6 @@ TCC WebKore
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7A00FF&height=120&section=footer"/>
 
 </div>
