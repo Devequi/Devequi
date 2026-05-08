@@ -1,150 +1,128 @@
 <div align="center">
 
-# Deveqyz7
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=160&section=header&text=Deveqyz7&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Felipe%20Devequi%20•%20Developer%20in%20Progress&descSize=16&descAlignY=60&descColor=888888"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Developer+in+progress...;Building+cool+stuff+with+code;Java+%7C+Python+%7C+Web+Dev;Future+Software+Engineer" />
+<br/>
 
-<img src="https://i.pinimg.com/originals/6c/5d/7d/6c5d7d8b2d8c9d0e8dbe65e7a7f6f1d.gif" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+cool+stuff+with+code;React+%7C+Python+%7C+Django+%7C+Java;17+y%2Fo+%E2%80%94+Future+Software+Engineer;Turning+ideas+into+pixels+and+logic" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Devequi&style=flat-square&color=ffffff&labelColor=000000&label=views" />
+&nbsp;
+<a href="https://github.com/Devequi?tab=followers"><img src="https://img.shields.io/github/followers/Devequi?style=flat-square&color=ffffff&labelColor=000000&label=followers" /></a>
 
 </div>
 
 ---
 
-# 🧠 About Me
+## 🧠 About Me
 
 ```yaml
 name: Felipe Devequi
-nickname: Deveqyz7
+alias: Deveqyz7
 age: 17
+location: Brazil 🇧🇷
 
 focus:
-  - React
+  - React & Modern Frontend
   - Web Development
-  - Frontend
+  - UI/UX Design
 
 currently_learning:
-  - React
-  - Django
-  - SQLite
-  - UI Design
+  - React (deep dive)
+  - Django & REST APIs
+  - SQLite / Databases
 
-dream:
-  - Become a Software Engineer
-  - Build impactful apps
-  - Achieve financial independence
 ```
 
+<br clear="right"/>
+
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,git,github,vscode,sqlite,django&theme=dark" />
+### Languages
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark&perline=5" />
+
+### Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=react,django,sqlite,git,github,vscode&theme=dark&perline=6" />
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Devequi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=7A00FF"/>
+<a href="https://github.com/Devequi">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Devequi&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/Devequi">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devequi&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=8"/>
+</a>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Devequi&theme=tokyonight&hide_border=true&background=00000000&ring=7A00FF&fire=7A00FF&currStreakLabel=FFFFFF"/>
+<br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devequi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF"/>
+<img src="https://streak-stats.demolab.com/?user=Devequi&theme=transparent&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&stroke=333333" />
 
 </div>
 
 ---
 
-# 🏆 Achievements
+## 🏆 Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Devequi&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Devequi&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 </div>
 
 ---
 
-# 🌌 Dev Quote
+## 📈 Activity
 
 <div align="center">
-
-> "Code is temporary. Impact is permanent."
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devequi&theme=github-compact&hide_border=true&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area=true&area_color=333333"/>
 </div>
 
 ---
 
-# 📈 Activity Graph
+## 🐍 Snake
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devequi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=FFFFFF&line=7A00FF&point=FFFFFF"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 </div>
 
 ---
 
-# 🎧 Vibing To
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Listening+to+music...;Coding+late+at+night...;Building+cool+projects..." />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🚀 Current Goals
-
-<div align="center">
-
-🔥 Build real-world projects  
-⚡ Improve frontend skills  
-🧠 Learn backend architecture  
-🎯 Become fullstack developer
-
-</div>
-
----
-
-# 📫 Connect With Me
+## 📫 Connect
 
 <div align="center">
 
 <a href="https://instagram.com/SEUUSER">
-<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://discord.com">
-<img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:seuemail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Devequi">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7A00FF&height=140&section=footer"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
