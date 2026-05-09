@@ -89,8 +89,6 @@ currently_learning:
 
 ---
 
-## 🐍 Snake
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -105,7 +103,7 @@ currently_learning:
 
 <div align="center">
 
-<a href="https://instagram.com/SEUUSER">
+<a href="https://instagram.com/deveq1z">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 &nbsp;
@@ -113,7 +111,7 @@ currently_learning:
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:seuemail@gmail.com">
+<a href="mailto:devkzz559@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
