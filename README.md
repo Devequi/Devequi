@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```yaml
 name: Felipe Devequi
@@ -40,7 +40,7 @@ currently_learning:
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -54,26 +54,17 @@ currently_learning:
 
 ---
 
-## 📊 GitHub Stats
+##  Stats
 
 <div align="center">
-
-<a href="https://github.com/Devequi">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Devequi&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/Devequi">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devequi&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=8"/>
-</a>
-
-<br/>
-
+  
 <img src="https://streak-stats.demolab.com/?user=Devequi&theme=transparent&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&stroke=333333" />
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Devequi&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
@@ -81,7 +72,7 @@ currently_learning:
 
 ---
 
-## 📈 Activity
+## Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devequi&theme=github-compact&hide_border=true&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area=true&area_color=333333"/>
