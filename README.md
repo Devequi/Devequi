@@ -45,10 +45,10 @@ currently_learning:
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark&perline=5" />
 
 ### Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=react,django,sqlite,git,github,vscode&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,django,git,github,vscode&theme=dark&perline=6" />
 
 </div>
 
