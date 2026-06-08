@@ -20,7 +20,7 @@
 
 ```yaml
 name: Felipe Devequi
-alias: Deveqyz7
+nickname: Deveqyz7
 age: 17
 location: Brazil 🇧🇷
 
@@ -31,8 +31,6 @@ focus:
 
 currently_learning:
   - React (deep dive)
-  - Django & REST APIs
-  - SQLite / Databases
 
 ```
 
@@ -64,14 +62,6 @@ currently_learning:
 
 ---
 
-## Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Devequi&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
-</div>
-
----
-
 ## Activity
 
 <div align="center">
@@ -80,15 +70,6 @@ currently_learning:
 
 ---
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-</div>
-
----
 
 ## 📫 Connect
 
