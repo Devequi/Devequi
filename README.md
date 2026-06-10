@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/ef/b3/18/efb318cf042527c29957cd8559cbb75e.jpg" width="100%" alt="Banner"/>
+<img src="https://i.ytimg.com/vi/TPE2y_ITLPg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lOhCBdcWP69UFRYNnZfJGS2C5eIw" width="100%" alt="Banner"/>
 
 <br><br>
 
@@ -20,54 +20,35 @@
 
 ---
 
-<table>
-<tr>
+<div align="center">
 
-<td width="33%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=120&text=DEVEQ1Z&fontSize=50&color=0:000000,100:444444&fontColor=ffffff&stroke=ffffff"/>
 
-<h2>📌 Sobre</h2>
+</div>
 
-<pre>
-nome: Felipe Devequi
-idade: 17
-local: Brasil 🇧🇷
-</pre>
 
-</td>
 
-<td width="33%" valign="top">
+## 📌 Sobre
 
-<h2>🎯 Foco</h2>
+🔹 Felipe Devequi
 
-⚛️ React
+🔹 17 anos
 
-🌐 Web Development
+🔹 Brasil 🇧🇷
 
-🎨 UI/UX
+🔹 Desenvolvedor Full Stack em formação
 
-🚀 Full Stack
+---
 
-</td>
+## 🎯 Atualmente
 
-<td width="33%" valign="top">
+🔹 React
 
-<h2>🎓 Learning</h2>
+🔹 Node.js
 
-📚 React
+🔹 UI/UX
 
-⚙️ Express
-
-🗄️ MySQL
-
-🔷 Prisma
-
-🔐 APIs REST
-
-</td>
-
-</tr>
-</table>
-
+🔹 Desenvolvendo o WebKore
 ---
 
 ## 🛠️ Stack
@@ -130,10 +111,3 @@ local: Brasil 🇧🇷
 
 </div>
 
-<br>
-
-<div align="center">
-
-*"Turning ideas into code."*
-
-</div>
