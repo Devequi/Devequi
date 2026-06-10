@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=160&section=header&text=Deveqyz7&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Felipe%20Devequi%20•%20Developer%20in%20Progress&descSize=16&descAlignY=60&descColor=888888"/>
+<img src="https://i.pinimg.com/1200x/b7/2b/15/b72b15c7dafc8d7da117e6c1745eccda.jpg"/>
 
 <br/>
 
@@ -46,7 +45,7 @@ currently_learning:
 <img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark&perline=5" />
 
 ### Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=react,django,git,github,vscode&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,git,github,vscode&theme=dark&perline=6" />
 
 </div>
 
@@ -55,7 +54,6 @@ currently_learning:
 ##  Stats
 
 <div align="center">
-  
 <img src="https://streak-stats.demolab.com/?user=Devequi&theme=transparent&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&stroke=333333" />
 
 </div>
@@ -93,6 +91,4 @@ currently_learning:
 
 </div>
 
-<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
