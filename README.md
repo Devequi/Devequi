@@ -8,24 +8,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Devequi&style=flat-square&color=grey&labelColor=000000&label=views"/>
-
-&nbsp;
-
-<a href="https://github.com/Devequi?tab=followers">
-  <img src="https://img.shields.io/github/followers/Devequi?style=flat-square&color=white&labelColor=000000&label=followers"/>
-</a>
-
 </div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=120&text=DEVEQ1Z&fontSize=50&color=0:000000,100:444444&fontColor=ffffff&stroke=ffffff"/>
-
-</div>
-
 
 
 ## 📌 Sobre
