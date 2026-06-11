@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Just+Code+It.;React+%7C+Node.js+%7C+Java.;Building+projects+every+day.;Hustle.+Build.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Just+Code+It.;React+%7C+Node.js.;Building+projects+every+day.;Hustle.+Build.+Repeat." />
 
 <br><br>
 
