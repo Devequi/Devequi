@@ -8,37 +8,28 @@
 
 <br><br>
 
-</div>
+## 👨‍💻 About Me
 
-
-## 📌 Sobre
-
-🔹 Felipe Devequi
-
-🔹 17 anos
-
-🔹 Brasil 🇧🇷
-
-🔹 Desenvolvedor Full Stack em formação
+- 🇧🇷 Felipe Devequi
+- 17 anos
+- Desenvolvedor Full Stack em formação
+- Desenvolvimento web e criação de interfaces modernas
 
 ---
 
-## 🎯 Atualmente
+## 🎯 Foco Atual
 
-🔹 React
-
-🔹 Node.js
-
-🔹 UI/UX
-
-🔹 Desenvolvendo o WebKore
----
+- React
+- Node.js
+- UI/UX Design
+- Desenvolvimento Frontend Responsivo
+- Construção de projetos Full Stack
 
 ## 🛠️ Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,python,mysql,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mysql,git,github,vscode&theme=dark"/>
 
 </div>
 
