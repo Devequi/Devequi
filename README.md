@@ -11,7 +11,7 @@ Desenvolvendo aplicações web com foco em React, Node.js e interfaces modernas.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"/>
 
 </div>
 
