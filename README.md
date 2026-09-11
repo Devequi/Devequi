@@ -9,8 +9,6 @@ Atualmente estou construindo minha base em programação, explorando novas tecno
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python)
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github)
 
 ### 📚 Atualmente estudando
 
@@ -48,4 +46,4 @@ Busco compreender não apenas como desenvolver aplicações, mas também como si
 
 ---
 
-`Sempre aprendendo e buscando evoluir na tecnologia. 🚀`
+`Ser o único garoto que tentou furar a bolha.`
