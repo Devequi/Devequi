@@ -3,14 +3,14 @@ Estudante de **Desenvolvimento de Sistemas (DS)**, interessado em **desenvolvime
 
 Atualmente estou construindo minha base em programação, explorando novas tecnologias e buscando entender cada vez mais sobre desenvolvimento, sistemas e segurança.
 
-### 💻 Tecnologias e ferramentas
+### Tecnologias e ferramentas
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python)
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3)
 
-### 📚 Atualmente estudando
+### Atualmente estudando
 
 ```text id="o9z12y"
 → JavaScript e Lógica de Programação
@@ -27,10 +27,8 @@ Meu objetivo é continuar evoluindo na área de tecnologia, fortalecendo meus co
 
 Busco compreender não apenas como desenvolver aplicações, mas também como sistemas funcionam, se comunicam e podem ser protegidos.
 
-### 📊 GitHub
 
-
-### 📫 Contato
+### Contato
 
 <div>
   <a href="https://www.linkedin.com/in/felipe-devequi-435a28408/">
