@@ -3,13 +3,6 @@ Estudante de **Desenvolvimento de Sistemas (DS)**, interessado em **desenvolvime
 
 Atualmente estou construindo minha base em programação, explorando novas tecnologias e buscando entender cada vez mais sobre desenvolvimento, sistemas e segurança.
 
-### Tecnologias e ferramentas
-
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3)
-
 ### Atualmente estudando
 
 ```text id="o9z12y"
@@ -21,12 +14,13 @@ Atualmente estou construindo minha base em programação, explorando novas tecno
 → Fundamentos de Cibersegurança
 ```
 
-### 🎯 Foco
+### 💻 Portfólio
 
-Meu objetivo é continuar evoluindo na área de tecnologia, fortalecendo meus conhecimentos em **desenvolvimento de software** e avançando cada vez mais na área de **cibersegurança**.
+Confira meus projetos, tecnologias e um pouco mais sobre meu desenvolvimento:
 
-Busco compreender não apenas como desenvolver aplicações, mas também como sistemas funcionam, se comunicam e podem ser protegidos.
-
+<a href="https://devequi.github.io/Portifolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Acessar_Portfólio-111111?style=for-the-badge">
+</a>
 
 ### Contato
 
